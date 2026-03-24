@@ -12,11 +12,11 @@
 
 
 <H1> 組員列表 </H1>
----------------------------
 
+---------------------------
 | A 組 | 姓名 | Github連結 |
 |----:|------|------|
-|組長 | 陳肇延 | [陳肇延 github](|
+|組長 | 陳肇延 | [陳肇延 github](https://github.com/Zhao-Yen/-/blob/main/README.md)|
 |組員 | 官威宏 | [官威宏 github](https://github.com/shiinamashironoe/d1134423036)|
-|組員 | 陳則閔 | [陳則閔 github]|
+|組員 | 陳則閔 | [陳則閔 github](https://github.com/tse0218/1150324/blob/main/README.md)|
 |組員 | 楊博涵 | [楊博涵 github]|
