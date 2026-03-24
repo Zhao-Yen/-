@@ -12,7 +12,7 @@
 ----------------------------
 最近都聽<br>
 <a href="https://youtu.be/F--27qiJfRg?si=1Blgb2tsirgUr2PF" target="_blank"><img src="7735661.jpg" 
-alt="phonk 流行曲" width="400" height="250" border="10" /></a>
+alt="phonk 流行曲" width="200" height="250" border="10" /></a>
 <br>影片取自 youtube
 
 
